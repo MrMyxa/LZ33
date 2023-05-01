@@ -1,0 +1,11 @@
+C:\Users\Tem4i\source\repos\LZ3\LZ3\bin\Debug\LZ3.exe.config
+C:\Users\Tem4i\source\repos\LZ3\LZ3\bin\Debug\LZ3.exe
+C:\Users\Tem4i\source\repos\LZ3\LZ3\bin\Debug\LZ3.pdb
+C:\Users\Tem4i\source\repos\LZ3\LZ3\obj\Debug\LZ3.csproj.AssemblyReference.cache
+C:\Users\Tem4i\source\repos\LZ3\LZ3\obj\Debug\LZ3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tem4i\source\repos\LZ3\LZ3\obj\Debug\LZ3.Form1.resources
+C:\Users\Tem4i\source\repos\LZ3\LZ3\obj\Debug\LZ3.Properties.Resources.resources
+C:\Users\Tem4i\source\repos\LZ3\LZ3\obj\Debug\LZ3.csproj.GenerateResource.cache
+C:\Users\Tem4i\source\repos\LZ3\LZ3\obj\Debug\LZ3.csproj.CoreCompileInputs.cache
+C:\Users\Tem4i\source\repos\LZ3\LZ3\obj\Debug\LZ3.exe
+C:\Users\Tem4i\source\repos\LZ3\LZ3\obj\Debug\LZ3.pdb
